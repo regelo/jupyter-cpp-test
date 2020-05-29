@@ -5,4 +5,4 @@ L'idée est d'avoir un Jupyter Notebook minimal qui pourrait servir de template 
 
 Doit partager https://github.com/regelo/jupyter-cpp-test/
 
-
+Le fichier "environment.yml" est nécessaire pour "mybinder.org". 
